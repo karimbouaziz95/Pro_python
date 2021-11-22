@@ -1,0 +1,31 @@
+pip
+setuptools
+
+# Libraries
+ipython
+ipykernel
+loguru
+numba
+Cython
+
+# Testing
+pytest
+codecov
+pytest-cov
+tox
+pre-commit
+pytest-benchmark
+
+# Linting
+flake8
+pylint
+mypy
+autopep8
+isort
+black==21.4b0
+
+# Documentation
+mkdocs
+mkdocstrings
+mkdocs-material
+Pygments
